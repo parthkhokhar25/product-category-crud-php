@@ -31,15 +31,15 @@
 ### 📂 Project Structure
 
 /product-category-crud-php
-│── index.php          # Main UI with form and data table
-│── add_category.php   # Handles category addition
-│── add_product.php    # Handles product addition
-│── delete.php         # Deletes categories/products
-│── update.php         # Updates categories/products
-│── db.php             # Database connection file
-│── style.css          # Custom styling
-│── README.md          # Project documentation
-└── assets/            # Contains images, scripts, and styles
+│── index.php          # Main UI with form and data table < br / > 
+│── add_category.php   # Handles category addition < br / > 
+│── add_product.php    # Handles product addition < br / > 
+│── delete.php         # Deletes categories/products < br / > 
+│── update.php         # Updates categories/products < br / > 
+│── db.php             # Database connection file < br / > 
+│── style.css          # Custom styling < br / > 
+│── README.md          # Project documentation < br / > 
+└── assets/            # Contains images, scripts, and styles < br / > 
 
 
 ### ⚡ Installation Guide
