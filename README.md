@@ -28,20 +28,6 @@
   jQuery & AJAX (For interactive UI)
 
 
-### 📂 Project Structure
-
-/product-category-crud-php
-│── index.php          # Main UI with form and data table ##
-│── add_category.php   # Handles category addition ##
-│── add_product.php    # Handles product addition ## 
-│── delete.php         # Deletes categories/products ## 
-│── update.php         # Updates categories/products ## 
-│── db.php             # Database connection file ## 
-│── style.css          # Custom styling ##
-│── README.md          # Project documentation ## 
-└── assets/            # Contains images, scripts, and styles ## 
-
-
 ### ⚡ Installation Guide
 
   Clone the repository
